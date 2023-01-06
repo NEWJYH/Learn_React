@@ -1,0 +1,8 @@
+# jupyter notebook
+.ipynb_checkpoints
+
+# node_modules
+node_modules
+
+# env
+.env
